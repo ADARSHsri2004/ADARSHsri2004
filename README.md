@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=ADARSHsri2004&show_icons=true&locale=en" alt="Adarsh Srivastava" /></p>
 
 <p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ADARSHsri2004&" alt="Adarsh Srivastava" /></p>
+
+[![An image of @adarshsri2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshsri2004)](https://holopin.io/@adarshsri2004)
